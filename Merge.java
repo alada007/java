@@ -1,4 +1,4 @@
-package com.intel.sort;
+package sort;
 
 public class Merge {
 	void sort(int []nums,int from,int to)
